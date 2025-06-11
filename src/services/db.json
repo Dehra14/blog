@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "How to create a website using only JavaScript",
+      "content": "The key to understanding js...",
+      "author": "Ogechi Okafor",
+      "date": "2023-06-10"
+    },
+    {
+      "id": "2",
+      "title": "Types of error codes and how to resolve it",
+      "content": "There are common errors gotten when trying to code ...",
+      "author": "Benjamin Franklin",
+      "date": "2025-10-05"
+    },
+    {
+      "id": "3",
+      "title": "Guide to creating a React app ",
+      "content": "Step one:...",
+      "author": "Ololade Akintola",
+      "date": "2025-03-20"
+    },
+    {
+      "0": {
+        "id": "1",
+        "title": "How to create a website using only JavaScript",
+        "content": "The key to understanding js...",
+        "author": "Ogechi Okafor",
+        "date": "2023-06-10"
+      },
+      "1": {
+        "id": "2",
+        "title": "Types of error codes and how to resolve it",
+        "content": "There are common errors gotten when trying to code ...",
+        "author": "Benjamin Fola",
+        "date": "2025-10-05"
+      },
+      "2": {
+        "id": "3",
+        "title": "Guide to creating a React app ",
+        "content": "Step one:...",
+        "author": "Ololade Akintola",
+        "date": "2025-03-20"
+      },
+      "3": {
+        "id": "fd19",
+        "title": "yakuza",
+        "content": "Whos calling my phone"
+      },
+      "title": "Akaza",
+      "content": "got the deadliest prescene",
+      "id": "fd19"
+    }
+  ]
+}
